@@ -1,5 +1,5 @@
 {
-  "name": "symbols-view",
+  "name": "symbols-view-rc",
   "version": "0.100.0",
   "main": "./lib/main",
   "description": "Jump to a function/method in the current editor with `cmd-r`.",

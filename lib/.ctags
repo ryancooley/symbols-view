@@ -128,3 +128,5 @@
 --langmap=Fountain:.fountain
 --langmap=Fountain:+.ftn
 --regex-Fountain=/^(([iI][nN][tT]|[eE][xX][tT]|[^\w][eE][sS][tT]|\.|[iI]\.?\/[eE]\.?)([^\n]+))/\1/f,function/
+
+--PHP-kinds=f
